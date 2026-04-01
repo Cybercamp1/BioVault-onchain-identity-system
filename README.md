@@ -5,6 +5,12 @@ BioVault AI is a futuristic, decentralized biometric authentication system that 
 ### 🎭 The Cinematic Interface
 Inspired by *Iron Man* and *Mission Impossible*, the BioVault HUD provides real-time face tracking and voice waveform visualization. It analyzes your biological entropy to unlock a secure cryptographic vault on-chain.
 
+<img width="1573" height="751" alt="Screenshot 2026-04-01 103535" src="https://github.com/user-attachments/assets/25935d3a-0827-4db0-9883-aa4a0e949b5f" />
+
+<img width="1534" height="651" alt="Screenshot 2026-03-31 192842" src="https://github.com/user-attachments/assets/123bed18-9147-46ca-974c-b4cfe55f8f7c" />
+<img width="1575" height="754" alt="Screenshot 2026-03-31 192536" src="https://github.com/user-attachments/assets/71ae0172-c2df-44e7-834c-0a79e4ee4941" />
+
+
 ### 🛡️ Why BioVault AI?
 *   **Zero Raw Data**: We never store images or audio files. Only numerical embeddings (vectors) are extracted, and these are immediately encrypted.
 *   **Privacy-Preserving NFT**: Your digital identity is an NFT that contains a hashed Cognito-ID and an AI-generated personality profile, without revealing any PII.
